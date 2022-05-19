@@ -1,0 +1,14 @@
+.app{
+    margin: 0 auto;
+    width: 1000px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.seacrh-panel-wrapper{
+    background-color: #3d5a80;
+    box-shadow: 15px 15px 30px rgba(0, 0, 0, .15);
+    padding: 20px;
+    color: white;
+    width: 100%;
+    margin-bottom: 20px;
+}
